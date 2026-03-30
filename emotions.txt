@@ -1,0 +1,17 @@
+happy:joy
+satisfaction:joy
+confidence:joy
+relaxed:joy
+
+frustrated:anger
+angry:anger
+
+disappointed :sadness
+upset:sadness
+sad:sadness
+
+fear:fear
+nervous:fear
+
+hopeful:anticipation
+positive:anticipation
